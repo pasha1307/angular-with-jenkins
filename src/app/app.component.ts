@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'To Integrate With Jenkins';
+  title = 'Updated Title To Integrate With Jenkins';
 }
